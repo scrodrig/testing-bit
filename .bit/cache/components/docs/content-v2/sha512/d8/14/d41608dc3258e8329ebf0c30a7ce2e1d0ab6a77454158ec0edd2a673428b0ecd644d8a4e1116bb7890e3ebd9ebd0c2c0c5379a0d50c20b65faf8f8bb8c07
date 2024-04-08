@@ -1,0 +1,1 @@
+[{"filePath":"button_ui.tsx","name":"ButtonUi","description":"","properties":[{"name":"title","description":"sets the component children.","required":true,"type":"string"}],"access":"public","methods":[],"args":[],"examples":[]}]
