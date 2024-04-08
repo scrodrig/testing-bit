@@ -11,8 +11,9 @@
 {
     "button_ui": {
         "name": "button_ui",
-        "scope": "scrodrig1.testing",
+        "scope": "",
         "version": "1.0.0",
+        "defaultScope": "scrodrig1.testing",
         "mainFile": "index.ts",
         "rootDir": "testing/button_ui"
     },

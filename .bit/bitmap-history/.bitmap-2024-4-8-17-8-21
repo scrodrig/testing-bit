@@ -11,10 +11,17 @@
 {
     "button_ui": {
         "name": "button_ui",
-        "scope": "scrodrig1.testing",
-        "version": "1.0.0",
+        "scope": "",
+        "version": "",
+        "defaultScope": "scrodrig1.testing",
         "mainFile": "index.ts",
-        "rootDir": "testing/button_ui"
+        "rootDir": "testing/button_ui",
+        "config": {
+            "bitdev.react/react-env@1.1.50": {},
+            "teambit.envs/envs": {
+                "env": "bitdev.react/react-env"
+            }
+        }
     },
     "hello-world": {
         "name": "hello-world",
