@@ -1,0 +1,21 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": "bitdev.react",
+        "name": "react-env"
+      },
+      "isSymlink": false,
+      "hash": "332d61722e10572fbaef5995407ebdce773c6a7e"
+    },
+    {
+      "id": {
+        "scope": "scrodrig1.testing",
+        "name": "hello-world"
+      },
+      "isSymlink": false,
+      "hash": "504c3c713ea51dd9543b1127be96c221478e8096"
+    }
+  ],
+  "lanes": []
+}
