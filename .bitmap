@@ -12,7 +12,7 @@
     "button_ui": {
         "name": "button_ui",
         "scope": "scrodrig1.testing",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "mainFile": "index.ts",
         "rootDir": "testing/button_ui"
     },

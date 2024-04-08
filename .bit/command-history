@@ -19,3 +19,9 @@
 2024-04-08T16:08:34.091Z 13582 export, succeeded
 2024-04-08T16:11:16.868Z 14145 test, started
 2024-04-08T16:11:20.187Z 14145 test, succeeded
+2024-04-08T16:12:04.769Z 15583 export, started
+2024-04-08T16:12:04.820Z 15583 export, succeeded
+2024-04-08T16:12:16.074Z 15841 tag --message my second release --minor, started
+2024-04-08T16:12:18.089Z 15841 tag --message my second release --minor, succeeded
+2024-04-08T16:12:23.800Z 16077 export, started
+2024-04-08T16:12:28.648Z 16077 export, succeeded
